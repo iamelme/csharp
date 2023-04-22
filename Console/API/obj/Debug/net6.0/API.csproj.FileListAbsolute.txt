@@ -1,0 +1,15 @@
+D:\elmed\Documents\Projects\C#\Console\API\bin\Debug\net6.0\API.exe
+D:\elmed\Documents\Projects\C#\Console\API\bin\Debug\net6.0\API.deps.json
+D:\elmed\Documents\Projects\C#\Console\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\elmed\Documents\Projects\C#\Console\API\bin\Debug\net6.0\API.dll
+D:\elmed\Documents\Projects\C#\Console\API\bin\Debug\net6.0\API.pdb
+D:\elmed\Documents\Projects\C#\Console\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\elmed\Documents\Projects\C#\Console\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\elmed\Documents\Projects\C#\Console\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\elmed\Documents\Projects\C#\Console\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\elmed\Documents\Projects\C#\Console\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\elmed\Documents\Projects\C#\Console\API\obj\Debug\net6.0\API.dll
+D:\elmed\Documents\Projects\C#\Console\API\obj\Debug\net6.0\refint\API.dll
+D:\elmed\Documents\Projects\C#\Console\API\obj\Debug\net6.0\API.pdb
+D:\elmed\Documents\Projects\C#\Console\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\elmed\Documents\Projects\C#\Console\API\obj\Debug\net6.0\ref\API.dll

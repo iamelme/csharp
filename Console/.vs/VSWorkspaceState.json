@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Calculator"
+    "\\Calculator",
+    "\\Calculator\\Calculator",
+    "\\Solution1"
   ],
-  "SelectedNode": "\\Calculator\\CalculatorSolution.sln",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\Calculator\\Calculator\\Program.cs",
+  "PreviewInSolutionExplorer": true
 }
