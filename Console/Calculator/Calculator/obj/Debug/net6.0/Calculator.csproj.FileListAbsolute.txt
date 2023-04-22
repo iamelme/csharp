@@ -1,0 +1,15 @@
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\elmed\Documents\Projects\C#\Console\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
